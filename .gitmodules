@@ -1,0 +1,6 @@
+[submodule "researcher-frontend"]
+	path = researcher-frontend
+	url = git@github.com:LaylaSilbernberg/re-Searcher-frontend.git
+[submodule "reSearcher-backend"]
+	path = reSearcher-backend
+	url = git@github.com:LaylaSilbernberg/reSearcher-backend.git
